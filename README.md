@@ -42,7 +42,11 @@ git clone https://github.com/imdewan/project-showcase.git
 cd project-showcase
 ```
 
-### 2. Add the the keys
+### 2. Setup the Supabase db
+
+Use the given sql file to execute in the supabase.
+
+### 3. Add the the keys
 
 Create a .env.local file in the root dir and put the keys like this
 
@@ -51,7 +55,7 @@ NEXT_PUBLIC_SUPABASE_URL=<supabase-url>
 NEXT_PUBLIC_SUPABASE_ANON_KEY=<anon-key>
 ```
 
-### 3. Run the project
+### 4. Run the project
 
 ```bash
 npm i
