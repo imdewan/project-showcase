@@ -42,7 +42,16 @@ git clone https://github.com/imdewan/project-showcase.git
 cd project-showcase
 ```
 
-### 2. Run the project
+### 2. Add the the keys
+
+Create a .env.local file in the root dir and put the keys like this
+
+```
+NEXT_PUBLIC_SUPABASE_URL=<supabase-url>
+NEXT_PUBLIC_SUPABASE_ANON_KEY=<anon-key>
+```
+
+### 3. Run the project
 
 ```bash
 npm i
