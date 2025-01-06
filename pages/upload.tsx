@@ -159,7 +159,7 @@ export default function UploadProject() {
         <motion.button
           type="submit"
           className="w-full bg-blue-600 hover:bg-blue-500 text-white font-bold py-2 px-4 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
-          whileHover={{ scale: 1.05 }}
+          whileHover={{ scale: 1.01 }}
           whileTap={{ scale: 0.95 }}
         >
           Upload Project
