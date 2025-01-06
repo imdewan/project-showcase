@@ -42,6 +42,13 @@ git clone https://github.com/imdewan/project-showcase.git
 cd project-showcase
 ```
 
+### 2. Run the project
+
+```bash
+npm i
+npm run dev
+```
+
 ---
 
 ## Contributing 🤝
