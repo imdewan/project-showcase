@@ -1,6 +1,6 @@
 # Dev Showcase 🎨
 
-![Dev Showcase Banner](https://via.placeholder.com/800x200.png?text=Dev+Showcase)
+![Dev Showcase Banner](https://via.placeholder.com/800x200.png?text=<Dev+Showcase/>)
 
 **Dev Showcase** is a project-sharing platform inspired by Behance, allowing developers to showcase their frontend, backend, or full-stack projects and maintain personalized profiles. Built with **Next.js 15**, **Supabase**, **Tailwind CSS**, and **TypeScript**, this project ensures a seamless user experience with modern technologies.
 
@@ -56,4 +56,4 @@ Contributions are welcome! To contribute:
 
 ---
 
-![Thank You](https://via.placeholder.com/800x200.png?text=Thank+You+for+Contributing)
+![Thank You](https://cdn.pixabay.com/photo/2014/06/04/16/41/thank-you-362164_1280.jpg)
