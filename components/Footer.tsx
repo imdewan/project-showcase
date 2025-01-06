@@ -1,4 +1,4 @@
-import { Github, Twitter, Linkedin, Bluesky } from "lucide-react";
+import { Github, Twitter, Linkedin } from "lucide-react";
 
 export function Footer() {
   return (
