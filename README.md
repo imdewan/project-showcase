@@ -56,4 +56,4 @@ Contributions are welcome! To contribute:
 
 ---
 
-![Thank You](https://cdn.pixabay.com/photo/2014/06/04/16/41/thank-you-362164_1280.jpg)
+[Made with ❤️ by Dewan Shakil](https://mrdsa.dev)
